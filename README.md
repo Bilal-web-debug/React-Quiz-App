@@ -1,15 +1,3 @@
-You can use the command line to create the file:
-
-bash
-Copy code
-touch README.md
-Or you can create the file manually using any code editor.
-
-2. Add Content to README.md
-Here's a basic template you can use for your README.md. Customize it to fit your project's details:
-
-markdown
-Copy code
 # React Quiz App
 
 A simple quiz application built with React. This project is designed to provide a fun and interactive way to test general knowledge and learn new information through quizzes.
@@ -76,15 +64,4 @@ Contact
 If you have any questions, feel free to reach out:
 
 Author: Muhammad Bilal
-Email: [Your Email]
-GitHub: Bilal-web-debug
-sql
-Copy code
 
-### 3. **Commit and Push the README.md File**
-After creating and saving your `README.md` file, commit it to your repository:
-
-```bash
-git add README.md
-git commit -m "Add README.md"
-git push origin my-feature-branch
